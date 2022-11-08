@@ -42,7 +42,7 @@ export default function App() {
           />
         </Section>
 
-        <Section title="Statistic">
+        <Section title="Statistics">
           {countTotalFeedback ? (
             <Statistic
               good={good}
